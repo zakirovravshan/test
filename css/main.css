@@ -1,0 +1,13 @@
+body{
+    background-color: #02897a
+
+}
+
+.title{
+    color: #fff;
+    padding: 300px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 58px;
+}
